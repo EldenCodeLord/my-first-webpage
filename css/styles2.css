@@ -1,0 +1,26 @@
+h1 {
+  color: magenta;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: turquoise;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+p1 {
+  font-style: oblique;
+  color: forestgreen;
+  font-weight: 700;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  font-style: oblique;
+}
